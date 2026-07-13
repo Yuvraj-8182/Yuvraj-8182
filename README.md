@@ -1,26 +1,98 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Yuvraj Goswami
+# Hi 👋, I'm Yuvraj Goswami
 
-Passionate Developer from India
--------------------------------
+### MERN Stack Developer | React.js | Node.js | Express.js | MongoDB
 
-Coder, Explorer
+I'm a passionate Full Stack MERN Developer from India with 1 year of experience building modern, responsive, and scalable web applications. I enjoy creating clean, user-friendly solutions and continuously improving my skills by working on real-world projects.
 
-* 🌍 I'm based in India
-* ✉️ You can contact me at [yuvrajgoswami7171@gmail.com](mailto:yuvrajgoswami7171@gmail.com)
-* 🧠 I'm learning Computer Science
-* 🤝 I'm open to collaborating on Development
-* ⚡ Music Lover
+## 🚀 About Me
 
+* 💼 MERN Stack Developer with 1 year of experience
+* 🌍 Based in India
+* 🌱 Currently learning Next.js, TypeScript, Docker, and AWS
+* 👨‍💻 Open to Freelance, Remote, and Full-Time Opportunities
+* 🤝 Looking to collaborate on Open Source and MERN Projects
+* 📫 Email: **[yuvrajgoswami7171@gmail.com](mailto:yuvrajgoswami7171@gmail.com)**
+* 💼 LinkedIn: **https://linkedin.com/in/yuvraj-goswami-b10815226**
+* ⚡ Fun Fact: I love coding, solving problems, and listening to music.
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuvraj_goswami_333) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvraj-goswami-b10815226) 
+## 💻 Tech Stack
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Yuvraj-8182&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-8182&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-8182&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Frontend
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+## 🚀 Featured Projects
+
+### 🛒 MERN E-commerce Website
+
+* User authentication with JWT
+* Product management
+* Shopping cart and order system
+* Admin dashboard
+
+### 💬 Real-Time Chat Application
+
+* React.js + Node.js + Socket.io
+* Instant messaging
+* User authentication
+
+### 📋 MERN Task Management System
+
+* CRUD operations
+* JWT Authentication
+* Responsive UI
+
+### 📈 Admin Dashboard
+
+* Analytics dashboard
+* Charts and reports
+* Role-based authentication
+
+## 🎯 What I Can Do
+
+* Build Full Stack MERN Applications
+* Develop REST APIs
+* Create Responsive Websites
+* Fix React & Node.js Bugs
+* MongoDB Database Design
+* Authentication using JWT
+* API Integration
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvraj-8182\&show_icons=true\&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-8182\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-8182\&layout=compact\&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yuvraj-8182&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 📫 Let's Connect
+
+* 📧 Email: **[yuvrajgoswami7171@gmail.com](mailto:yuvrajgoswami7171@gmail.com)**
+* 💼 LinkedIn: **https://linkedin.com/in/yuvraj-goswami-b10815226**
+
+⭐ If you like my work, feel free to explore my repositories and connect with me. I'm always excited to work on interesting MERN Stack projects!
