@@ -6,7 +6,7 @@ I'm a passionate Full Stack MERN Developer from India with 1 year of experience 
 
 ## 🚀 About Me
 
-* 💼 MERN Stack Developer with 1 year of experience
+* 💼 MERN Stack Developer at Webtech Evolution (June 14, 2025 – Present)
 * 🌍 Based in India
 * 🌱 Currently learning Next.js, TypeScript, Docker, and AWS
 * 👨‍💻 Open to Freelance, Remote, and Full-Time Opportunities
@@ -14,6 +14,21 @@ I'm a passionate Full Stack MERN Developer from India with 1 year of experience 
 * 📫 Email: **[yuvrajgoswami7171@gmail.com](mailto:yuvrajgoswami7171@gmail.com)**
 * 💼 LinkedIn: **https://linkedin.com/in/yuvraj-goswami-b10815226**
 * ⚡ Fun Fact: I love coding, solving problems, and listening to music.
+
+## 💼 Professional Experience
+
+### MERN Stack Developer
+**Webtech Evolution** | June 14, 2025 – Present
+
+- 🚀 Developing and maintaining scalable MERN Stack web applications.
+- 💻 Building responsive user interfaces using React.js.
+- ⚙️ Building REST APIs using Node.js and Express.js.
+- 🗄️ Working with MongoDB and MySQL.
+- 🔐 Implementing JWT authentication.
+- 🐞 Fixing bugs and improving application performance.
+- 🔄 Collaborating with the team using Git and GitHub.
+
+> **Note:** Company source code is private and cannot be shared publicly.
 
 ## 💻 Tech Stack
 
