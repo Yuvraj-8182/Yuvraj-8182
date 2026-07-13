@@ -6,7 +6,7 @@ Passionate Developer from India
 Coder, Explorer
 
 * 🌍 I'm based in India
-* ✉️ You can contact me at [yuvrajgoswami8182@gmail.com](mailto:yuvrajgoswami7171@gmail.com)
+* ✉️ You can contact me at [yuvrajgoswami7171@gmail.com](mailto:yuvrajgoswami7171@gmail.com)
 * 🧠 I'm learning Computer Science
 * 🤝 I'm open to collaborating on Development
 * ⚡ Music Lover
